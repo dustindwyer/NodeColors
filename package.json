@@ -1,0 +1,15 @@
+{
+  "name": "NodeColors",
+  "version": "0.0.1",
+  "description": "a test node project for colors.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "dependencies":{
+  	"colors":"latest",
+    "underscore":"latest"
+  },
+  "author": "",
+  "license": "ISC"
+}
